@@ -1,1 +1,2 @@
-https://Maphick.github.io/rsschool-cv/cv
+[To CV](https://maphick.github.io/rsschool-cv/cv)
+
