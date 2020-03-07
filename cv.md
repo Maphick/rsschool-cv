@@ -24,9 +24,9 @@ Goals & wishes : getting the certificate
 * Git
 
 ## **5. Code examples**
-[Note SWIFT](https://github.com/Maphick/Note-SWIFT-) 
-[SportsMan](https://github.com/Maphick/SportsMan) 
-[Timer](https://github.com/Maphick/Timer) 
+* [Note SWIFT](https://github.com/Maphick/Note-SWIFT-) 
+* [SportsMan](https://github.com/Maphick/SportsMan) 
+* [Timer](https://github.com/Maphick/Timer) 
 
 
 ## **6. Experience**
@@ -40,9 +40,9 @@ BroadSoft, BT, China Mobile, Dialogic, Ericsson, HP, HTC, Huawei, Korea Telecom,
 Reliance, Samsung, Skype, Texas Instruments, Toshiba, Viber, ZTE, among more than 250 others.
 
 ### Projects from courses
-[Note SWIFT](https://github.com/Maphick/Note-SWIFT-) 
-[SportsMan](https://github.com/Maphick/SportsMan) 
-[Timer](https://github.com/Maphick/Timer) 
+* [Note SWIFT](https://github.com/Maphick/Note-SWIFT-) 
+* [SportsMan](https://github.com/Maphick/SportsMan) 
+* [Timer](https://github.com/Maphick/Timer) 
 
 
 ## **7. Education**
